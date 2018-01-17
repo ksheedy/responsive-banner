@@ -1,0 +1,17 @@
+html {
+  font-family: Georgia, serif;
+}
+
+.img-wrapper {
+  max-height: 500px;
+}
+
+.bottom {
+  background-color: #495562;
+  color: #fff;
+}
+
+.btn {
+  color: #fff;
+  border-color: #97a49b;
+}
