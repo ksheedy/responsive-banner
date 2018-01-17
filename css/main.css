@@ -5,11 +5,12 @@ html {
 .img-wrapper {
   max-height: 500px;
   overflow: hidden;
+  background-image: linear-gradient(to bottom, rgba(73, 85, 98, .9), rgba(73, 85, 98, .2));
 }
 
 .bottom {
   background-color: #495562;
-  color: #fff;
+  color: #efefef;
 }
 
 .btn {
@@ -27,6 +28,8 @@ html {
     position: absolute;
     background-color: inherit;
     bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
   }
 
 }
